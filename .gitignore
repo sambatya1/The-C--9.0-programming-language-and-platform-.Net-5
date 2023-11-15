@@ -1,5 +1,7 @@
 *.dll
 *.exe
-*.pdbFunWithRefAndValues
+*.pdb
+*.pdb
+FunWithRefAndValues
 FunWithRefTypeValTypeParams
 FunWithTuples
