@@ -12,3 +12,17 @@
 /home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithRefAndValues/obj/Debug/net7.0/FunWithRefAndValues.pdb
 /home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithRefAndValues/obj/Debug/net7.0/FunWithRefAndValues.genruntimeconfig.cache
 /home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithRefAndValues/obj/Debug/net7.0/ref/FunWithRefAndValues.dll
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/bin/Debug/net7.0/FunWithRefAndValues
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/bin/Debug/net7.0/FunWithRefAndValues.deps.json
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/bin/Debug/net7.0/FunWithRefAndValues.runtimeconfig.json
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/bin/Debug/net7.0/FunWithRefAndValues.dll
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/bin/Debug/net7.0/FunWithRefAndValues.pdb
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/obj/Debug/net7.0/FunWithRefAndValues.GeneratedMSBuildEditorConfig.editorconfig
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/obj/Debug/net7.0/FunWithRefAndValues.AssemblyInfoInputs.cache
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/obj/Debug/net7.0/FunWithRefAndValues.AssemblyInfo.cs
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/obj/Debug/net7.0/FunWithRefAndValues.csproj.CoreCompileInputs.cache
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/obj/Debug/net7.0/FunWithRefAndValues.dll
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/obj/Debug/net7.0/refint/FunWithRefAndValues.dll
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/obj/Debug/net7.0/FunWithRefAndValues.pdb
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/obj/Debug/net7.0/FunWithRefAndValues.genruntimeconfig.cache
+/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefAndValues/obj/Debug/net7.0/ref/FunWithRefAndValues.dll
