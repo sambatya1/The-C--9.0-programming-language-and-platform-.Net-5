@@ -1,0 +1,14 @@
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/bin/Debug/net7.0/FunWithRefTypeValTypeParams
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/bin/Debug/net7.0/FunWithRefTypeValTypeParams.deps.json
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/bin/Debug/net7.0/FunWithRefTypeValTypeParams.runtimeconfig.json
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/bin/Debug/net7.0/FunWithRefTypeValTypeParams.dll
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/bin/Debug/net7.0/FunWithRefTypeValTypeParams.pdb
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/obj/Debug/net7.0/FunWithRefTypeValTypeParams.GeneratedMSBuildEditorConfig.editorconfig
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/obj/Debug/net7.0/FunWithRefTypeValTypeParams.AssemblyInfoInputs.cache
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/obj/Debug/net7.0/FunWithRefTypeValTypeParams.AssemblyInfo.cs
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/obj/Debug/net7.0/FunWithRefTypeValTypeParams.csproj.CoreCompileInputs.cache
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/obj/Debug/net7.0/FunWithRefTypeValTypeParams.dll
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/obj/Debug/net7.0/refint/FunWithRefTypeValTypeParams.dll
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/obj/Debug/net7.0/FunWithRefTypeValTypeParams.pdb
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/obj/Debug/net7.0/FunWithRefTypeValTypeParams.genruntimeconfig.cache
+/home/sambatya/Документы/C#/Books/The-C--9.0-programming-language-and-platform-.Net-5/Chapter4/FunWithRefTypeValTypeParams/obj/Debug/net7.0/ref/FunWithRefTypeValTypeParams.dll
