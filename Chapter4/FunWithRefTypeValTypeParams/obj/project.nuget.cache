@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7EhygSt9aUU6r23ji3LXMhqLlFuRWiwEqJ+EWq7926NG4fygZgj+yBF2qi5CFrpX6Fcf5174X/9N3RU6pjqIfQ==",
+  "dgSpecHash": "yYRxI+J/xvDoPYQHvshi/I2KAJns926y7Yv8kDjexIUiJUkYjffiTNHk8tHyAMNm4hJMxgOLzN2zaMyH/ZzdrA==",
   "success": true,
-  "projectFilePath": "/home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithRefTypeValTypeParams/FunWithRefTypeValTypeParams.csproj",
+  "projectFilePath": "/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefTypeValTypeParams/FunWithRefTypeValTypeParams.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

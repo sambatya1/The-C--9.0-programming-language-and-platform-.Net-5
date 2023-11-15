@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithTuples/FunWithTuples.csproj",
+      "projectUniqueName": "/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithTuples/FunWithTuples.csproj",
       "projectName": "FunWithTuples",
-      "projectPath": "/home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithTuples/FunWithTuples.csproj",
+      "projectPath": "/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithTuples/FunWithTuples.csproj",
       "packagesPath": "/home/sambatya/.nuget/packages/",
-      "outputPath": "/home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithTuples/obj/",
+      "outputPath": "/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithTuples/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/sambatya/.nuget/NuGet/NuGet.Config"

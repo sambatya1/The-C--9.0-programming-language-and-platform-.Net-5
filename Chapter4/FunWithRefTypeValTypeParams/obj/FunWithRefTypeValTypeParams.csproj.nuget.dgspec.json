@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithRefTypeValTypeParams/FunWithRefTypeValTypeParams.csproj": {}
+    "/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefTypeValTypeParams/FunWithRefTypeValTypeParams.csproj": {}
   },
   "projects": {
-    "/home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithRefTypeValTypeParams/FunWithRefTypeValTypeParams.csproj": {
+    "/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefTypeValTypeParams/FunWithRefTypeValTypeParams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithRefTypeValTypeParams/FunWithRefTypeValTypeParams.csproj",
+        "projectUniqueName": "/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefTypeValTypeParams/FunWithRefTypeValTypeParams.csproj",
         "projectName": "FunWithRefTypeValTypeParams",
-        "projectPath": "/home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithRefTypeValTypeParams/FunWithRefTypeValTypeParams.csproj",
+        "projectPath": "/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefTypeValTypeParams/FunWithRefTypeValTypeParams.csproj",
         "packagesPath": "/home/sambatya/.nuget/packages/",
-        "outputPath": "/home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithRefTypeValTypeParams/obj/",
+        "outputPath": "/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithRefTypeValTypeParams/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/sambatya/.nuget/NuGet/NuGet.Config"

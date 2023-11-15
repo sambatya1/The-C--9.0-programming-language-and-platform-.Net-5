@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0JkM9DNDXHjZ6Wd5D9IphBZIsv9x7w9HrjLQqys1HXR5aUlxqvhhKnRoXoBun2ThvwnVH7UlOUrH794tI0v/9w==",
+  "dgSpecHash": "GzswiJbHFxZvGuI6NDOYmjQ6imjPhrwg7co1074AQpf/ENCEbFmuYXBFPVD+uzFuHa5pjM9MQWMms+niYAqMXA==",
   "success": true,
-  "projectFilePath": "/home/sambatya/Документы/C#/Troelsen/Chapter 4/FunWithTuples/FunWithTuples.csproj",
+  "projectFilePath": "/home/sambatya/Документы/C#/Books/The C# 9.0 programming language and platform .Net 5/Chapter4/FunWithTuples/FunWithTuples.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
